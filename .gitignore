@@ -4,18 +4,18 @@ Temp/
 Obj/
 
 # Ignore generated IDE files
-*.csproj
-*.unityproj
-*.sln
-*.user
-*.userprefs
+.csproj
+.unityproj
+.sln
+.user
+.userprefs
 
 # Ignore build output directories
 Build/
 Builds/
 
 # Ignore log files
-*.log
+.log
 
 # Ignore the .vs folder created by Visual Studio
 .vs/
